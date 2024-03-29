@@ -128,7 +128,7 @@ const ChatGPT = () => (
 			Do we think ChatGPT has beliefs? It seems to clear to me we don’t.
 			Do we think that ChatGPT has a certain attitude toward the output it
 			produces? It's clear it does not. So ChatGPT already fails to have
-			knowledge in the way humans do. Given this, we can skip the question
+			knowledge in the way humans do. Given this, we can skip the question of
 			justification. We can ignore the truth criteria, we need not dive
 			into this epistemological debate. ChatGPT does not have beliefs. So
 			when we use the word know, it is not the same as our use for humans.
